@@ -12,7 +12,7 @@ const introdata = {
         third: "I love to create posters, cards designs etc.. ",
     },
     description: "I am a Full Stack MERN developer with expertise in MongoDB, Express.js, React.js, and Node.js. Skilled in both frontend (HTML, CSS, JavaScript, React) and backend (Node.js, Express, MongoDB) development, I build responsive, scalable web applications with seamless user experiences. My knowledge in Azure deployment further enhances my ability to deliver high-performance applications. With a strong foundation in full-stack development and a user-focused approach, I am prepared to make a valuable impact on dynamic, forward-thinking teams.",
-    your_img_url: "https://i.imgur.com/uoCywHa.jpeg",
+    your_img_url: "https://i.imgur.com/mlD0Jmb.jpeg",
 };
 
 const dataabout = {
@@ -27,7 +27,7 @@ const worktimeline = [{
     {
         jobtitle: "Programmer Analyst",
         where: "Cognizant",
-        date: "2023-2024",
+        date: "2023-Present",
     },
     {
         jobtitle: "Programmer Analyst Trainee",
@@ -75,31 +75,49 @@ const dataportfolio = [{
         img: "https://i.imgur.com/t9cXw5O.jpeg",
         description: "The Vehicle Care Platform",
         link: "https://rsvehiclecareplatform.netlify.app/",
+        github: "https://github.com/RagulRS/Vehicle-Care-Platform-FrontEnd.git",
+        teckstack: `Frontend: React.js, Bootstrap CSS (for styling),
+Backend: Node.js, Express.js,
+Database: MongoDB,
+Other Tools: JSON for data handling, REST APIs for communication`
     },
     {
         img: "https://i.imgur.com/PgEcUj2.jpeg",
         description: "Pokemon Card Generator",
         link: "https://pokemonappbyrs.netlify.app/",
+        github: "https://github.com/RagulRS/Promise--Pokemon-App.git",
+        teckstack: `Javascript, CSS 3`
     },
     {
         img: "https://i.imgur.com/Z82A6j9.jpeg",
         description: "Demo Mobile phones E-Commerce website",
         link: "https://phonescartpage.netlify.app/",
+        github: "https://github.com/RagulRS/Redux-Day28-main.git",
+        teckstack: `React.js, Bootstrap CSS (for styling)`
+        
     },
+        
     {
         img: "https://i.imgur.com/CB02s2T.jpeg",
         description: "Basic Calculator",
         link: "https://rscalculator.netlify.app/",
+        github: "https://github.com/RagulRS/Day-14-task-No-2---calculator.git",
+        teckstack: `Javascript, CSS 3 `
     },
     {
         img: "https://i.imgur.com/Pd1ATle.jpeg",
         description: "Weather App",
         link: "https://weatherappbyrs.netlify.app/",
+        github: "https://github.com/RagulRS/Day-18--Promise-Weather-App.git",
+        teckstack: `Javascript, Css 3`
     },
     {
         img: "https://i.imgur.com/lZNBKMU.jpeg",
         description: "Image-Search App",
         link: "https://imagesearchappbyrs.netlify.app/",
+        github: "https://github.com/RagulRS/Promise---Image-Search-App.git",
+        teckstack: `Javascript, Css 3`
+        
     },
     
 ];
